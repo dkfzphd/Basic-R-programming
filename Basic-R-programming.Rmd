@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+author: "ManBuXiaoCun"
+date: '2022-04-24'
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+
+```
+
