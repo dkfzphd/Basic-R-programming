@@ -3,6 +3,8 @@ title: "Tables with {gt}"
 author: "Julia Müller"
 date: "15 9 2021"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Packages & data
